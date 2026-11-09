@@ -86,8 +86,3 @@ generated files:
 - out.s   arm64 assembly
 - out     executable
 
-## blog
-i wrote a blog on making your own compiler, it might differ a bit from
-what's here since things have changed:
-
-https://rasmalai123.medium.com/compiler-b9a614f9ef7b
